@@ -1,0 +1,9 @@
+{
+	"name": "adftestenvopp",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "9b914d18-a38d-47c1-8812-7125f9759e49",
+		"tenantId": "260bfe97-2a9d-4812-b539-6d73fb54f316"
+	}
+}
